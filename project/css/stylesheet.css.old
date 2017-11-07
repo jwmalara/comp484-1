@@ -1,0 +1,64 @@
+.pageContainer {
+    border: 2px solid black;
+    width: 1900px;
+    height: 800px;
+    position: absolute;
+    background: linear-gradient(to right, #0579be 0%,#71ceef 22%,#71ceef 78%,#0579be 100%);
+}
+
+.contentContainer {
+    /* border: 2px solid black; */
+    width: 1000px;
+    height: 400px;
+    position: relative;
+    margin: 0 auto;
+    margin-top: 200px;
+    /* background: blue; */
+}
+
+.contentHeader {
+    /* border: 2px solid black; */
+    width: 999px;
+    height: 100px;
+    position: relative;
+    margin: 0 auto;
+    /* background: yellow; */
+    text-align: center;
+}
+
+.buttonContainer {
+    border: 2px solid black;
+    width: 580px;
+    height: 75px;
+    position: relative;
+    margin: 0 auto;
+    margin-top: 100px;
+    /* background: grey; */
+}
+
+.navButton {
+    /* border: 2px solid black; */
+    width: 180px;
+    height: 50px;
+    position: relative;
+    margin: 0 auto;
+    background: #045A8D;
+    color: rgb(215, 231, 240);
+    display: inline-block;
+    text-align: center;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(126, 181, 212);
+    letter-spacing: 1px;
+    vertical-align: middle;
+}
+
+h1 {
+    font-family: 'Fjalla One', sans-serif;
+    color: white;
+    letter-spacing: 2px;
+}
