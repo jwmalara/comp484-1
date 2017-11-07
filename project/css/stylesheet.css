@@ -41,13 +41,13 @@ body {
     /* border: 1px solid red; */
 }
 
+.actionContainer form {
+    display:  block;
+}
+
 .sortContainer {
     /* border: 1px solid black; */
-    width: 200px;
-    height: 25px;
-    margin-left: 50px;
-    margin-top:50px;
-    left: 0;
+    float: left;
 }
 
 .createJobContainer {
